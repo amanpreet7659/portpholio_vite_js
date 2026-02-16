@@ -1,0 +1,18 @@
+Alex Carter
+Creative Frontend Engineer
+
+Email: alex.carter@example.com
+Portfolio: https://example.com
+
+Summary
+Design-focused frontend engineer building modern, accessible, and high-performance web products.
+
+Core Skills
+- React, TypeScript, Redux Toolkit
+- UI Architecture and Design Systems
+- Performance Optimization and Accessibility
+
+Experience Highlights
+- Built user-centric dashboard interfaces for SaaS products.
+- Improved lighthouse performance scores and accessibility compliance.
+- Collaborated cross-functionally with product and design teams.
