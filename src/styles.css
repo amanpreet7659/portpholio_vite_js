@@ -86,7 +86,7 @@ body {
   font-weight: 700;
 }
 
-.hero-actions {
+.social-row {
   display: flex;
   flex-wrap: wrap;
   gap: 0.6rem;

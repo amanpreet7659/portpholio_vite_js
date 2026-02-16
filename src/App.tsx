@@ -29,6 +29,19 @@ const journeyMilestones = [
     title: 'Modern Premium Experiences',
     detail: 'Designing unique interfaces where color, typography, and interactions feel effortless.',
   },
+  {
+    year: '2024+',
+    title: 'Creative Digital Experiences',
+    detail:
+      'Combining animation, UX writing, and modern frontend stacks to create unique portfolio-grade products.',
+  },
+];
+
+const socialLinks = [
+  { label: 'GitHub', href: 'https://github.com/', icon: '⌘' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/', icon: 'in' },
+  { label: 'Instagram', href: 'https://www.instagram.com/', icon: '◉' },
+  { label: 'X / Twitter', href: 'https://x.com/', icon: '𝕏' },
 ];
 
 const socialLinks = [
