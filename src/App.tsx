@@ -38,13 +38,6 @@ const journeyMilestones = [
 ];
 
 const socialLinks = [
-  { label: 'GitHub', href: 'https://github.com/', icon: '⌘' },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/', icon: 'in' },
-  { label: 'Instagram', href: 'https://www.instagram.com/', icon: '◉' },
-  { label: 'X / Twitter', href: 'https://x.com/', icon: '𝕏' },
-];
-
-const socialLinks = [
   { label: 'GitHub', href: 'https://github.com/', icon: 'GH' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/', icon: 'in' },
   { label: 'Instagram', href: 'https://www.instagram.com/', icon: 'IG' },
