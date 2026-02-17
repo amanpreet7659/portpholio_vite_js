@@ -84,7 +84,7 @@ function App() {
 
       <header className="hero card">
         <nav className="topbar">
-          <p className="brand">ALEX CARTER / FRONTEND PORTFOLIO</p>
+          <p className="brand">AMANPREET SINGH / MEARN STACK PORTFOLIO</p>
           <div className="hero-actions">
             <button type="button" className="ghost-button" onClick={() => dispatch(toggleTheme())}>
               {isDark ? 'Switch Light' : 'Switch Dark'}
